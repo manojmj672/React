@@ -26,10 +26,10 @@ function App() {
   <a href="#Blogs">Blogs</a>
   <a href="#Home">Home</a>
 </div>
-     {/* < div class="para">
+     < div class="para">
  <a href='#test'>test</a>
     </div>
-    <p> this is the sample website home</p> */}
+    <p> this is the sample website home</p>
     </div>
   ); 
 }
